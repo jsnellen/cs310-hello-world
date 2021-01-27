@@ -1,6 +1,6 @@
 /**
  *
- * @author Andrew Pruitt
+ * @author Andrew_Pruitt
  */
 
 public class HelloWorld {
